@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://wlcoin.oss-cn-shanghai.aliyuncs.com/Mining.7.ipa</string>
+                    <string>http://gotex.oss-cn-shanghai.aliyuncs.com/Gotex.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>fujianhuran.MiningY</string>
+                <string>com.fujianhuaran.DigitalCashgetx</string>
                 <key>bundle-version</key>
-                <string>1.1.4</string>
+                <string>1.1.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>挖了矿</string>
+                <string>Gotex</string>
             </dict>
         </dict>
     </array>
